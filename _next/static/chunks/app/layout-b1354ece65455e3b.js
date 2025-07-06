@@ -437,16 +437,16 @@
                 path: "/"
             }, {
                 name: "Resume",
-                path: "/resume.html"
+                path: "/resume"
             }, {
                 name: "Achievements",
-                path: "/achievements.html"
+                path: "/achievements"
             }, /*{
                 name: "Work",
                 path: "/work"
             }*/, {
                 name: "Contact",
-                path: "/contact.html"
+                path: "/contact"
             }]
         },
         7440: function(e, t, a) {
