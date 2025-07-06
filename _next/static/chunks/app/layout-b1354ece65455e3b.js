@@ -437,7 +437,7 @@
                 path: "/"
             }, {
                 name: "Resume",
-                path: "/resume"
+                path: "/404.html"
             }, {
                 name: "Achievements",
                 path: "/achievements"
